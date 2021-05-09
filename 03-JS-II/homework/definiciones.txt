@@ -1,0 +1,24 @@
+For: Con un bucle "for" podemos hacer tareas repetitivas y ahorrarnos tiempo como tambien trabajo. Se utiliza para recorrer arrays hasta que se cumpla una condicion. Hay que tener cuidado con nuestra condicion porque se puede crear un bucle infinito, y con esto nuestro codigo sera ejecutado infinitamente. Se inicia con un contador declarada en una variable, luego la condicion hasta cuando y el incrementador.
+
+
+Operadores logicos `&&`, `||`, `!`:
+Operador '&&': Si estamos comparando condiciones, ambas condiciones deben ser "true" para que devuelva "true". De lo contrario, retornara "false".
+
+Ejemplo '&&': 
+10 > 5 && 1 === '1'; false // La primera es true pero la segunda es false.
+1 === 1 && 1 < 2; true // Ambas son true.
+
+Operador '||': Con este operador, basta con tener una condicion "true" para que retorne "true". Si ambas son "false", retornara "false".
+
+Ejemplo '||':
+5 === '5' || 30 < 32; true // La primera condicion es false pero la segunda es true.
+40 < 30 || 7 === '7'; false // Ambas son false.
+
+Operador '!': El operador "not" o "no", invierte el valor booleano. Es decir, lo transforma en el opuesto. 
+
+Ejemplo '!':
+!(10 < 20);false // La condicion se cumplia porque era true, pero con el not lo pasamos a false.
+!(7 === '7');true // Se cumplia porque era false, pero agregando el negador se transforma en true.
+
+
+
