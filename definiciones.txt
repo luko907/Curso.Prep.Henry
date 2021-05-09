@@ -1,0 +1,10 @@
+Variables: Las variables son una especie de cajas donde podes guardar valores que podes reutilizar durante el desarrollo. Hace un tiempo se utilizaba la palabra reservada "var" pero ahora se utiliza "let"(si una variable cambia o consideramos que puede tener otro valor como una suma) o "const"(la variable es constante y no cambia de contenido).
+
+Strings: "Strings" son cadenas de texto, todo lo que se envuelve en comillas es un texto.
+
+Funciones: Una funcion cumple una parte muy importante dentro de JS. Con una funcion podemos crear calculos, formulas o simplemente retornar uniones de texto, como una descripcion. Las funciones son invocadas, es decir, las llamamos cuando las necesitamos. Se les puede pasar argumentos que seran calculados dependiendo nuestra funcion.
+Con la palabra "return" devolvemos un valor como resultado, al devolver el valor se puede utilizar fuera de la funcion (Scope) y la finalizamos.
+
+Declaraciones(if): Con condicionales podemos tomar decisiones en base a si es verdadero o no, si la condicion se cumple inmediatamente se ejecuta el bloque de codigo y si no pasa al siguiente bloque. Pueden utilizarse dentro de funciones.
+
+Valores booleanos: Con valores booleanos podemos saber si algo es verdadero(true) o falso(false). Detras de escena, son numeros que activan (1) o desactivan (0). Es muy necesario para saber si algo existe o no, o simplemente para saber su condicion actual, como por ejemplo si una persona esta trabajando o no.
