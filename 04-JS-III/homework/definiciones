@@ -1,0 +1,3 @@
+Arrays: Un array es como una lista de elementos, que se puede acceder por su indice. Es almacenado dentro de una variable y arranca en 0. Se accede atraves del nombre del array + [indice] y el indice. Por ejemplo, array[2].
+Dentro de ellos se puede guardar diferentes tipos de valores, funciones e incluso otros arrays(anidado).
+Se pueden crear arrays vacios declarando una variable + corchetes vacios[], y es posible agregar elementos usando el metodo (nombredelarray).push()... o eliminar con el metodo (nombredelarray).pop()...
